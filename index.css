@@ -1,0 +1,8 @@
+body{
+    background-color: #1e1e1e;
+}
+.toplink{
+    color: #c8d4e4;
+    padding: 10px;
+    cursor: pointer;
+}

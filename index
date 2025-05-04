@@ -1,0 +1,66 @@
+<html>
+    <title>
+        Visual Studio
+    </title>
+    <link rel="stylesheet" href="index.css">
+</html>
+<boady>
+    <header>
+    <div style="display: flex;justify-content: space-between; font-size: 20px; padding-left: 200px; padding-top: 20px;">
+<div>
+        <span style="padding-right: 10px; padding-top: 5px; cursor: pointer;">
+            <img src="https://code.visualstudio.com/favicon.ico" alt="Visual Studio" width="25" height="20">
+        </span>
+        <span style="color:#ffffff ; cursor: pointer;">Visual Studio</span>
+        <span class="toplink">Docs</span>
+        <span class="toplink">Updates</span>   
+        <span class="toplink">Blog</span>
+        <span class="toplink">Extensions</span>
+        <span class="toplink">FAQ</span>
+        <span class="toplink">Copilot</span>
+    </div>  
+<div style="padding-right: 200px;">
+        <input type="text" placeholder="Search..." style="padding: 5px; width: 200px;">
+        <button type="link" style="padding: 5px 10px; border: none;border-radius: 5px;background-color: #4ea1f3;color: #ffffff;cursor: pointer;">Search</button>
+    </div>
+</div>
+</header>
+ <div style="text-align: center;padding-top: 100px;">
+            <b>
+                <a href="https://code.visualstudio.com/updates/v1_99" style="color: #4ea1f3;">
+                    version 1.99
+                </a>                
+            </b>
+            <span class="toplink">
+                is now available!. Read about the new features and fixes from August.
+            </span>
+        </div>
+<div style="justify-content: space-between;padding-top: 100px; height: 100vh; background-color: #1e1e1e; color: #ffffff; display: flex;padding-left: 300px;padding-right: 300px;">
+    <div style="color: aliceblue;">
+        <b>
+            <h4 style="font-size: 20px;border:#1e1e1e; border-radius: 5px; padding: 5px; background-color:#343434 ; color: #ffffff;margin-right:100px ;">
+            Free. Built on open source. Runs erywhere.
+         </h4>
+           <h1 style="font-size: 50px;">
+            Code Editing. Redefined.
+           </h1> 
+         </b>
+         <button type="link" style="background-color: #4ea1f3; color: white; padding: 10px 20px; border: none; border-radius: 5px; cursor: pointer;">
+            Download for Windows
+        </button>
+        <h4>
+            <a href="" style="color: #4ea1f3;" >Web,</a>
+            <a href="" style="color: #4ea1f3;" >Insider edition,</a>
+            or
+            <a href="" style="color: #4ea1f3;" >other platforms</a>
+        </h4>
+        <h5>
+            By using VS Code, you agree to the <a href="" style="color: #4ea1f3;" >terms of use</a> and <a href="" style="color: #4ea1f3;" >privacy statement</a>.
+               </h5>
+    </div>
+    <div style="text-align: center; margin-top: 50px;border: 10px;">
+        <img src="https://towardsdatascience.com/wp-content/uploads/2021/11/1LOg637snHRwXMZl__jmwSA-768x459.png"
+             alt="Visual Studio" width="800" height="500" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
+</div>
+</body>
+</html>

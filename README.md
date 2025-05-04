@@ -1,3 +1,18 @@
-# vs-code-loading-page-clone-
-I created the visual studio code loading page by using html and css
+# Visual Studio Landing Page Clone
+
+This is a simple front-end clone of the Visual Studio landing page built with HTML and CSS.
+
+## 💻 Features
+- Responsive layout (partially)
+- Styled with CSS and inline styles
+- Button and image elements
+- Search bar and navigation links
+
+## 🌐 Demo
+Coming soon (you can host on GitHub Pages)
+
+## 📁 How to Use
+1. Clone the repo
+2. Open `index.html` in a browser
+
 

@@ -8,8 +8,6 @@ This is a simple front-end clone of the Visual Studio landing page built with HT
 - Button and image elements
 - Search bar and navigation links
 
-## 🌐 Demo
-Coming soon (you can host on GitHub Pages)
 
 ## 📁 How to Use
 1. Clone the repo
